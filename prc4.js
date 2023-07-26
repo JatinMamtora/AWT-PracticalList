@@ -22,8 +22,8 @@ function outerFunction() {
   nestedFunction();
 }
 
-const num = 5;
-const result = factorial_Recursive(num);
-console.log(`Factorial of ${num} is:`, result);
+const num1 = 5;
+const result = factorial_Recursive(num1);
+console.log(`Factorial of ${num1} is:`, result);
 
 outerFunction();
