@@ -1,4 +1,4 @@
-const numbersArray = [10, "20", { 30: "Nirmit" }, 40.5, true];
+const numbersArray = [10, "20", { 1: "ja3" }, 40.5, true];
 
 const arrayLength = numbersArray.length;
 console.log("Length of the array:", arrayLength);
